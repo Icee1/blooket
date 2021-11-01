@@ -6,7 +6,7 @@ This cheat only works in crazy kingdom gamemode!
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/ChoiceESP.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/Icee1/blooket/main/crazy-kingdom/ChoiceESP.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # MaxResources.js
